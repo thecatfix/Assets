@@ -1,0 +1,39 @@
+body {
+    font-family: 'Proxima Nova', sans-serif;
+    font-size: 16px;
+    background-color: #232b44;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 20px 0;
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 10px 20px;
+}
+
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #1a2238;
+    color: #ffffff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
